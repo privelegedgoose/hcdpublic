@@ -1,0 +1,121 @@
+[
+  {
+    "num": "001",
+    "title": "Barcelona e inmigración",
+    "guest": "Jordi Bayona i Carrasco",
+    "theme": "demografía migratoria, padrón municipal, quién vive en Barcelona",
+    "published": "2024-12-09"
+  },
+  {
+    "num": "002",
+    "title": "Barcelona y vino",
+    "guest": "Nika Shevela",
+    "theme": "cultura del vino, perspectiva inmigrante rusa, Gen Z y el alcohol",
+    "published": "2025-03-01"
+  },
+  {
+    "num": "003",
+    "title": "Barcelona y urbanismo",
+    "guest": "Salvador Rueda",
+    "theme": "supermanzanas, movilidad urbana, espacio público",
+    "published": "2025-02-15"
+  },
+  {
+    "num": "004",
+    "title": "Barcelona y la comedia",
+    "guest": "Chris Groves",
+    "theme": "stand-up en castellano, ser extranjero, el acento, humor",
+    "published": "2025-03-15"
+  },
+  {
+    "num": "005",
+    "title": "Barcelona y eventos culturales",
+    "guest": "Andrea Carballo",
+    "theme": "eventos culturales, vino, literatura, comunidad, Wine Women & Words",
+    "published": "2025-04-01"
+  },
+  {
+    "num": "006",
+    "title": "Barcelona y vivienda",
+    "guest": "Gerard Mena",
+    "theme": "mercado de vivienda, alquiler, Barcelona",
+    "published": "2025-04-15"
+  },
+  {
+    "num": "007",
+    "title": "Barcelona y arquitectura",
+    "guest": "Rafael Gómez Moriana",
+    "theme": "Sagrada Família, tecnología en construcción, futuro arquitectónico",
+    "published": "2025-05-01"
+  },
+  {
+    "num": "008",
+    "title": "Barcelona y el periodismo",
+    "guest": "Eileen Truax",
+    "theme": "periodismo inmigrante, representación en medios, espacios independientes",
+    "published": "2025-07-28"
+  },
+  {
+    "num": "009",
+    "title": "Barcelona y AllWomen",
+    "guest": "Laura Gimenez Fernandez",
+    "theme": "mujeres en tech, emprendimiento femenino, acceso tecnológico",
+    "published": "2025-08-01"
+  },
+  {
+    "num": "010",
+    "title": "Barcelona y Cine",
+    "guest": "Marta Armengou",
+    "theme": "memoria histórica, mirada femenina, Cataluña, Filmtopia",
+    "published": "2025-07-15"
+  },
+  {
+    "num": "011",
+    "title": "Barcelona y economía",
+    "guest": "Joan Monràs",
+    "theme": "mercado laboral, inmigración, economía urbana, área metropolitana",
+    "published": "2025-09-01"
+  },
+  {
+    "num": "012",
+    "title": "Barcelona y el pan",
+    "guest": "Elisabet Arnau",
+    "theme": "gastronomía, cultura del pan, artesanía alimentaria",
+    "published": "2025-11-01"
+  },
+  {
+    "num": "013",
+    "title": "Barcelona y 2025",
+    "guest": "Nika Shevela",
+    "theme": "review anual, Rosalía, urbanismo, política, tendencias",
+    "published": "2025-12-15"
+  },
+  {
+    "num": "014",
+    "title": "Barcelona y trends 2026",
+    "guest": "Solo Daria",
+    "theme": "IA, inmigración, gastronomía, urbanismo, tendencias 2026",
+    "published": "2026-01-15"
+  },
+  {
+    "num": "015",
+    "title": "Top Manta",
+    "guest": "Lamine Sarr",
+    "theme": "venta ambulante, migración subsahariana, política migratoria, activismo",
+    "published": "2025-10-01"
+  },
+  {
+    "num": "016",
+    "title": "Barcelona y LinkedIn",
+    "guest": "Ylenia Porras",
+    "theme": "LinkedIn, marca personal, inteligencia artificial, red profesional B2B",
+    "published": "2025-11-15"
+  },
+  {
+    "num": "017",
+    "title": "Barcelona y cocina coreana",
+    "guest": "Kiwon Kim Lee",
+    "theme": "restaurante Sangkil, cocina coreana en Gracia, familia, 30 años en Barcelona",
+    "published": "2025-04-20"
+  }
+]
